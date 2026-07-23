@@ -65,7 +65,7 @@ export const participants: Participant[] = [
 
 export const siteConfig = {
   groupName: "Kelompok 4",
-  subtitle: "Latsar CPNS Golongan LXII",
+  subtitle: "Latsar CPNS Angkatan 62",
   year: 2026,
   photoLink: "https://drive.google.com/file/d/1EXAMPLE_FOTO_BERSAMA/view?usp=sharing",
 } as const;
