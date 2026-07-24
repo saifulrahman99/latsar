@@ -37,7 +37,7 @@ export function Hero() {
           <div className="relative overflow-hidden rounded-2xl border border-gray-200/80 shadow-2xl dark:border-zinc-700/60">
             <img
               src="/foto-bersama.jpg"
-              alt="Foto bersama Kelompok 3 Latsar CPNS"
+              alt="Foto bersama Kelompok 4 Latsar CPNS"
               className="aspect-video w-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent" />
